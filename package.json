@@ -67,7 +67,7 @@
     "@types/node": "^8.0.31",
     "duplexify": "^3.5.0",
     "eslint": "^4.7.2",
-    "eslint-config-prettier": "^2.6.0",
+    "eslint-config-prettier": "2.8.0",
     "eslint-plugin-node": "^5.2.0",
     "eslint-plugin-prettier": "^2.3.1",
     "google-proto-files": "^0.14.1",
